@@ -1,3 +1,5 @@
+## Cadastro de Alunos e Cursos feito em PHP com banco de dados Mysql
+
 ## Configuração
 Criar banco de dados com nome `ra18853005` e executar o arquivo database.sql para incluir as tabelas no banco de dados.
 
